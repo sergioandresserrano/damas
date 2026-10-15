@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1792029231,
+	"version": 1792069314,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,6 +35,7 @@
 		"images/volume-sheet0.png",
 		"images/volume-sheet1.png",
 		"images/pared-sheet0.png",
+		"images/zone-sheet0.png",
 		"media/gameover.m4a",
 		"media/gameover.ogg",
 		"media/hit.m4a",
